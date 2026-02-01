@@ -1,1 +1,1 @@
-print("warforge-core UPDATE2")
+print("warforge-core FIX2")
