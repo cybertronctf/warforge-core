@@ -1,1 +1,1 @@
-print("warforge-core INSERT")
+print("warforge-core UPDATE")
