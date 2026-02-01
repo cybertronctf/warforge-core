@@ -1,1 +1,1 @@
-print("warforge-core REINSERT")
+print("warforge-core UPDATE2")
